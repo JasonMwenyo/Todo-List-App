@@ -28,4 +28,4 @@ btn.addEventListener('click',function(){
   });
 
   inputText.focus();
-});
+}); 
