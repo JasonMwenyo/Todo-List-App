@@ -27,5 +27,5 @@ btn.addEventListener('click',function(){
     inputText.focus();
   });
 
-  inputText.focus();
+  inputText.focus(); 
 }); 
