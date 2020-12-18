@@ -24,7 +24,8 @@ btn.addEventListener('click',function(){
   
   deleteBtn.addEventListener('click', function(){
     unOrderedList.removeChild(listItem);
-  })
+    inputText.focus();
+  });
 
-
+  inputText.focus();
 });
